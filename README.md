@@ -7,7 +7,6 @@ This repository contains code to replicate the experiments in the first draft of
 ## Running the simulations
 
 To reproduce the experimental results, simply navigate to the ``sims/`` folder and run ``bash lee_sims.sh``. The figures are then produced in ``notebooks/figures.ipynb``.
-
 ## Running the tests
 
 Run ``python3.9 -m pytest`` to run the unit tests. This should take less than 10 seconds.
